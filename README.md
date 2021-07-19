@@ -1,3 +1,7 @@
+# what does this code do?  
+this code is written in java. It will calculate the frame scrores on the run. Based on the below understanding  
+https://www.myactivesg.com/Sports/Bowling/How-To-Play/Bowling-Rules/How-are-points-determined-in-bowling  
+the cores have be computed for frames.
 
 # Directions to test this project
 Need to have the below installed
