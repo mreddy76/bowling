@@ -10,5 +10,7 @@ Need to have the below installed
 # Assuming the above are present
 1. Please checkout the project from git into a local directory of your choice
 2. Import the project into eclipse as a maven project
-3. Just for sanity purposes, mvn clean compile
-4. The below will create a jar file as well as run tests. mvn clean package
+3. Just for sanity purposes, please run
+   mvn clean compile
+5. The below command  will create a jar file as well as run tests. 
+   mvn clean package
